@@ -13,13 +13,14 @@
 <a href="https://github.com/myactionway/branch-pruner-workflows" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=myactionway&repo=branch-pruner-workflows&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a>
 
 # See you :wave:
-<img alt="&nbsp;pending..." height=25 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/></img><br>
-<img height=24 src="https://badges.pufler.dev/visits/myactionway/.github?label=&color=blue"/></img>
+<img alt="&nbsp;pending..." height="25" src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/mytoolkit/Profile-Visitors-2A2E30.svg"/></img><br>
+<img height="24" src="https://badges.pufler.dev/visits/myactionway/.github?label=&color=blue"/></img>
 </div>
 
 ### Note on protected brand names and logos
 > * The use of protected brand names, trade names, utility models and brand logos on this website does not constitute an infringement of copyright; rather, it serves as an illustrative note. Even if this is not marked as such at the respective points, the corresponding legal provisions always apply.
 > * The brand names and logos used are the property of their respective owners and are subject to their copyright provisions.
+> * This offer is in no way related to the legal entities of the protected brand names and logos used.
 
 ### Note on liability for links
 > * This README contains links to external third-party websites. The README operator has no influence on the content of these sites. Therefore, he cannot assume any liability. Instead, the respective provider is always responsible for the content.
