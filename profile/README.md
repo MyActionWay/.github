@@ -70,5 +70,5 @@
 
 ### Readme uses
 > * [star-solid.svg](https://fontawesome.com/v5.15/icons/star?style=solid "Check it out") & [code-branch-solid.svg](https://fontawesome.com/v5.15/icons/code-branch?style=solid "Check it out") [License: [CC&nbsp;BY&nbsp;4.0](https://fontawesome.com/license/free "Check it out"); Copyright: ©️  Fonticons, Inc.; Changes: made]
-> * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
+> * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra; Changes: made]
 > * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0&nbsp;1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")] 
