@@ -4,8 +4,8 @@
 
 <table>
 <tr>
-<td align="center" colspan="2">
-<a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359827195/1a084a2e-f30b-4c5d-b4a8-a3ce60d6f945" width="804"/></a>
+<td colspan="2">
+<a href="https://github.com/myactionway/lighthouse-badger-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/359827195/1a084a2e-f30b-4c5d-b4a8-a3ce60d6f945"/></a>
 </td>
 </tr>
 
@@ -32,8 +32,8 @@
 
 <table>
 <tr>
-<td align="center" colspan="2">
-<a align="center" href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/352585266/cc34310b-3ab2-4085-b5f5-b1b2cc306a64" width="804"/></a>
+<td colspan="2">
+<a href="https://github.com/myactionway/branch-pruner-action" title="Explore this" target="_blank"><img src="https://repository-images.githubusercontent.com/352585266/cc34310b-3ab2-4085-b5f5-b1b2cc306a64"/></a>
 </td>
 </tr>
 
